@@ -41,4 +41,3 @@ Instead of basic charts, I used **Pandas Plotting** to generate business insight
 ├── data/                   # Raw and Cleaned CSV files
 ├── notebooks/              # Jupyter Notebook with the full code
 ├── README.md               # Project documentation
-└── requirements.txt        # Python dependencies (Pandas, spaCy, psycopg2)
